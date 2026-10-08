@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11919.86 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCombat.Commun", "RobotCombat.Commun\RobotCombat.Commun.csproj", "{F86EBABC-AEF0-4E08-A4B3-F1556A61C320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCombat.Serveur", "RobotCombat.Serveur\RobotCombat.Serveur.csproj", "{1E24B200-E2BA-4993-ADC1-CEB1A1CAB871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCombat.Client", "RobotCombat.Client\RobotCombat.Client.csproj", "{F9837EF9-782D-493F-9946-DCD07A6421F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCombat.Tests", "RobotCombat.Tests\RobotCombat.Tests.csproj", "{17E933D9-8AEA-4018-835B-F34AA78B69C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86EBABC-AEF0-4E08-A4B3-F1556A61C320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86EBABC-AEF0-4E08-A4B3-F1556A61C320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86EBABC-AEF0-4E08-A4B3-F1556A61C320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86EBABC-AEF0-4E08-A4B3-F1556A61C320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E24B200-E2BA-4993-ADC1-CEB1A1CAB871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E24B200-E2BA-4993-ADC1-CEB1A1CAB871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E24B200-E2BA-4993-ADC1-CEB1A1CAB871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E24B200-E2BA-4993-ADC1-CEB1A1CAB871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9837EF9-782D-493F-9946-DCD07A6421F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9837EF9-782D-493F-9946-DCD07A6421F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9837EF9-782D-493F-9946-DCD07A6421F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9837EF9-782D-493F-9946-DCD07A6421F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E933D9-8AEA-4018-835B-F34AA78B69C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E933D9-8AEA-4018-835B-F34AA78B69C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E933D9-8AEA-4018-835B-F34AA78B69C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E933D9-8AEA-4018-835B-F34AA78B69C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
